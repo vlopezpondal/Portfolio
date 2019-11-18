@@ -1,0 +1,56 @@
+body{
+   background-image: url(https://images5.alphacoders.com/547/547016.jpg) !important;
+    margin: 0 !important;
+}
+.container{
+    margin: 100px !important;
+}
+.navegacion{
+    background-color: transparent !important;}
+button{
+    border:0 !important;
+    cursor: pointer !important;
+}
+
+h1{
+    font-size: 100px !important;
+    font-family: url('https://fonts.googleapis.com/css?family=Nunito&display=swap')
+     !important;
+    
+
+}
+h5, h6{
+    font-family:  url('https://fonts.googleapis.com/css?family=Nunito&display=swap') !important;
+}
+.apellido{
+    color: blueviolet;
+}
+.imgg{
+    border-radius: 50% !important;
+    cursor: pointer !important;
+}
+.redes{
+    margin: 15px !important;
+    
+}
+.card{
+    margin: 15px;
+    background-color: transparent!important;
+}
+.skills{
+    margin: 10px !important ;
+}
+footer{
+    height: 50px !important;
+    background-color: transparent !important;
+}
+a{
+    color: blueviolet !important;
+}
+.pres{
+    padding-right: 10px !important;
+}
+section{
+    min-height: 400px !important;
+  
+}
